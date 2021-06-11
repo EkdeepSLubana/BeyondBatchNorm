@@ -1,6 +1,6 @@
 # Beyond BatchNorm: Towards a Unified Understanding of Normalization in Deep Learning
 
-Codebase for the paper "Beyond BatchNorm: Towards a Unified Understanding of Normalization in Deep Learning".
+Codebase for the paper ["Beyond BatchNorm: Towards a Unified Understanding of Normalization in Deep Learning."](https://arxiv.org/abs/2106.05956)
 
 ## Requirements
 
