@@ -97,7 +97,6 @@ transform_test = transforms.Compose(
 	 transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))
 	 ])
 
-# d_path = "../../early_pruning/"
 d_path = "./" 
 if(use_data=="CIFAR-10"):
 	n_classes = 10 
